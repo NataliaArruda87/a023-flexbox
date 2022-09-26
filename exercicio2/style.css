@@ -4,6 +4,12 @@
 }
 
 main{
-  padding-top: 20px;
+  padding: 20px;
   display: flex;
+  gap: 100px;
+  flex-wrap: wrap;
+}
+
+figure {
+  border: 1px solid black;
 }
